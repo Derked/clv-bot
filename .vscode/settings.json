@@ -1,0 +1,23 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#96fc93",
+    "activityBar.background": "#96fc93",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#fa45d4",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#96fc93",
+    "statusBar.background": "#96fc93",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#96fc93",
+    "statusBarItem.remoteBackground": "#96fc93",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#96fc93",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#96fc93",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.remoteColor": "#61dafb",
+  "rust-analyzer.linkedProjects": ["./Cargo.toml"]
+}
